@@ -221,6 +221,5 @@ This project is for educational purposes. I am not a financial advisor, and noth
 
 <div align="center">
 
-Built by [Shafqat Hussain](https://github.com/Shafqat388)
 
 </div>
